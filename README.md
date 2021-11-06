@@ -1,0 +1,1 @@
+# Tarkvara-arhitektuur-HW
